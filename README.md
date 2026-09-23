@@ -17,3 +17,6 @@ Fitur-Fitur :
 - ⁠Fitur B
 - ⁠Fitur C
 - ⁠etc
+
+
+Konsep Animasi : https://drive.google.com/drive/folders/1KoG7OrEBeG2kKZDcwH8K1QqbF1FnHvyg
